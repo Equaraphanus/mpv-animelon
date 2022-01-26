@@ -3,6 +3,7 @@ A (relatively) simple mpv script to open [Animelon](https://animelon.com/) video
 
 ## Installation and usage
 `git clone` the repository into your local mpv's `scripts` directory.
+This script uses `curl` to fetch content. Make sure it is installed on your system.
 Now you should be able to open Animelon video links in mpv and the subtitles should be available as well (no subtitles may be selected by default though).
 
 ## FAQ
